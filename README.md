@@ -2,7 +2,7 @@
 This is a Bank Project made using C/C++ 
 - Based on Text File System
 - Project has clients that can deposite,withdraw amount of money and others
-- Projet has Users that can do the following:
+- Project has Users that can do the following:
 -  List Clients
 -  Delete Client
 -  Update Client
