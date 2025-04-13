@@ -6,7 +6,6 @@ This is a Bank Project made using C/C++
 -  List Clients
 -  Delete Client
 -  Update Client
--  Update Client
 -  Manager Other Users excluding the Admin
 -  Please Note that the project is undergoing and still in development. However, all of the features are implemented. and Some Bugs and Logical Errors will be fixed Soon in newer Versions
 -  Notice: Please Stick To One Delimter While using the project to avoid Runtime Exceptions
