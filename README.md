@@ -1,7 +1,7 @@
 # BankProject
 This is a Bank Project Simulation made using C/C++ 
 - Based on Text File System (using fstream)
-- Project has clients that can deposite,withdraw amount of money.
+- Project has clients that can deposit,withdraw amount of money.
 - Project has Users that can do the following:
  1. List Clients
   2. Delete Client
