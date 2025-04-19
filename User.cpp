@@ -259,9 +259,8 @@ namespace User_Operations {
 	void saveUnmarkedUsersForDeletionToFile(string filename, const std::vector<User>& u, User*& currUsr)
 	{
 		if (!currUsr->user_permissions.canManageUsers)
-		{
-			
-			"Error: Permission to modify user list is denied.. Operation will be cancelled\n";
+		{	
+		        cerr<<"Error: Permission to modify user list is denied.. Operation will be cancelled\n";
 			this_thread::sleep_for(chrono::seconds(3));
 			return;
 		}
